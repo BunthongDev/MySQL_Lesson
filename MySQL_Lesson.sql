@@ -38,3 +38,5 @@ WHERE country = 'USA' OR country = 'Germany';
 SELECT id, company_name, region, country FROM customers 
 ORDER BY country ASC;
 
+
+

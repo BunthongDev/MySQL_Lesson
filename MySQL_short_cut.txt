@@ -1,0 +1,95 @@
+Here are some additional keyboard shortcuts for MySQL Workbench on a Mac that can enhance your productivity:
+
+Execute the Current SQL Statement:
+
+Shortcut: Command + Return
+This runs the SQL statement where your cursor is currently located.
+
+Execute All SQL Statements:
+
+Shortcut: Command + Shift + Return
+This runs all the SQL statements in the edito
+
+
+
+### **General Shortcuts:**
+- **Open a New SQL Tab:**
+  - `Command + T`
+  
+- **Open a New Query Tab in the Current Connection:**
+  - `Command + U`
+
+- **Open a File:**
+  - `Command + O`
+
+- **Save the Current SQL Script:**
+  - `Command + S`
+
+- **Save All Open SQL Scripts:**
+  - `Command + Shift + S`
+
+- **Close the Current Tab:**
+  - `Command + W`
+
+### **Editing Shortcuts:**
+- **Undo:**
+  - `Command + Z`
+
+- **Redo:**
+  - `Command + Shift + Z`
+
+- **Copy:**
+  - `Command + C`
+
+- **Cut:**
+  - `Command + X`
+
+- **Paste:**
+  - `Command + V`
+
+- **Select All:**
+  - `Command + A`
+
+- **Find:**
+  - `Command + F`
+
+- **Comment/Uncomment Selected Lines:**
+  - `Command + /`
+
+### **Navigating and Running Queries:**
+- **Execute the Current SQL Statement:**
+  - `Command + Return`
+
+- **Execute All SQL Statements:**
+  - `Command + Shift + Return`
+
+- **Toggle Line Numbers:**
+  - `Command + L`
+
+- **Jump to Line:**
+  - `Command + J`
+
+- **Show/Hide Sidebar:**
+  - `Command + Option + S`
+
+### **Formatting and Results:**
+- **Auto-complete:**
+  - `Escape` or `Control + Space`
+
+- **Reformat the SQL code (Beautify):**
+  - `Command + B`
+
+- **Go to Next Result Tab:**
+  - `Command + Option + →`
+
+- **Go to Previous Result Tab:**
+  - `Command + Option + ←`
+
+### **Database Management:**
+- **Refresh Database Schema:**
+  - `Command + R`
+
+- **Open Preferences:**
+  - `Command + ,`
+
+These shortcuts should make your experience using MySQL Workbench on a Mac much more efficient!
