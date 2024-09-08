@@ -51,3 +51,33 @@ SELECT category, MIN(units_in_stock) AS 'Total Stock' FROM products GROUP BY cat
 
 -- Get the maximum stock units by product category
 SELECT category, MAX(units_in_stock) AS 'Total Stock' FROM products GROUP BY category;
+
+-------------------------------------------------------------------
+-- All about Database creation --
+
+-- create a new database
+CREATE DATABASE AwesomeDatabase;
+
+-- to show database you have created
+SHOW DATABASES;
+
+--  for delete the database
+DROP DATABASE AwesomeDatabase;
+
+-- use the specific database
+USE awesomedatabase;
+
+-- creating tables
+CREATE TABLE awesome_table(
+id INT, 
+first_name VARCHAR(255),
+last_name VARCHAR(255),
+dept VARCHAR(255)
+
+);
+
+-- drop table (delete)
+DROP TABLE awesome_table;
+
+
+
